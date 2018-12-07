@@ -1,5 +1,5 @@
 OBJS := \
-	main.o \
+	Code.o \
 
 OUTFILE := output
 
